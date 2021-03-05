@@ -14,5 +14,6 @@ int main() {
 
     printf("Quotient = %d", quotient);  // correct the code
     printf("Remainder = %d", remainder);  // correct the code
+    
     return 0;
 }
